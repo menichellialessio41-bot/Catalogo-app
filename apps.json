@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Chat Kid",
+    "desc": "Chat sicura per bambini e ragazzi",
+    "icon": "https://i.imgur.com/0KFBHTB.png",
+    "link": "https://play.google.com/store/apps/details?id=com.example.chatkid"
+  },
+  {
+    "name": "Music Pro",
+    "desc": "Ascolta musica gratis senza limiti",
+    "icon": "https://i.imgur.com/yjYkz1U.png",
+    "link": "https://example.com/musicpro.apk"
+  },
+  {
+    "name": "Game Box",
+    "desc": "Raccolta di giochi divertenti",
+    "icon": "https://i.imgur.com/ZcLLrkY.png",
+    "link": "https://play.google.com/store/apps/details?id=com.example.gamebox"
+  }
+]
